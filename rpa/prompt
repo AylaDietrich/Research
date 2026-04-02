@@ -1,0 +1,24 @@
+Convert the input photo into a black-and-white line engraving.
+
+Style:
+- clean line engraving (NOT dotwork, NOT stippling)
+- bold, slightly thick lines
+- minimal детализация, убрать мелкий шум
+- аккуратная ручная штриховка (hatching), без точек
+- high contrast (pure black lines on white background)
+
+Rules:
+- preserve exact proportions, facial features, expression and composition
+- do not add new details or artistic interpretation
+- simplify textures (especially skin)
+- remove micro-details, оставить только ключевые формы
+- smooth and clean contours, как профессиональная отрисовка под гравировку
+
+Focus:
+- выразительные глаза, ресницы — четко линиями
+- губы — упрощённые, через контур и лёгкую штриховку
+- волосы — через крупные пряди, не мелкая детализация
+
+Output:
+- engraving-ready vector-like line art
+- no gray shading, only black lines on white
